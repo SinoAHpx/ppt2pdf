@@ -12,6 +12,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.12"
+pywin32 = "^308"
 
 
 [build-system]
